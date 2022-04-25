@@ -1,0 +1,18 @@
+@media (max-width: 1200px) {
+  .container {
+    padding: 20px;
+  }
+  .posts {
+    justify-content: center;
+  }
+  .posts__item {
+    margin: 10px;
+  }
+  .socials {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .socials__item {
+    margin: 10px;
+  }
+}

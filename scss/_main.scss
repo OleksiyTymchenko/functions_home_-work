@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: $ff-main;
+  font-size: $fs-main;
+  font-weight: $fw-base;
+}
+
+svg {
+  //max-width: 28px;
+}
+
+a {
+  text-decoration: none;
+  transition: all 0.2s ease-in-out;
+}
+
+.container {
+  width: 100%;
+  max-width: $max-width;
+  margin: 0 auto;
+}
